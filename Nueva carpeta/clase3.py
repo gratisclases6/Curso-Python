@@ -21,5 +21,5 @@ if __name__ == "__main__":
     numeroaevaluar.evaluar_numero()
     sumarealizada = numeroaevaluar.sumar(2)
     print("\nLa suma realizada es: ",sumarealizada)
-    print("Nueva linea")   
+    
 
